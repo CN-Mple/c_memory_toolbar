@@ -1,0 +1,2 @@
+    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x00001b5c, Max: 0x00008000, ABSOLUTE)
+    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x08001b60, Size: 0x000004c8, Max: 0x00001000, ABSOLUTE)

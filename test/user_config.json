@@ -1,0 +1,9 @@
+{
+    "target file" : "./test.map",
+    "Execution Region ER_IROM1" : {
+        "Size" : "Size: 0x%x", "Max" : "Max: 0x%x"
+    },
+    "Execution Region RW_IRAM1" : {
+        "Size" : "Size: 0x%x", "Max" : "Max: 0x%x"
+    }
+}
